@@ -3,7 +3,7 @@
 
 Meu nome é Arthur Carvalho
 
--Estou estudando na [Etec](https://www.etec.com.br) - Desenvolvimento de Sistemas <br>
+-Estou estudando na [Etec](https://eadtec.cps.sp.gov.br/) - Desenvolvimento de Sistemas <br>
 -Estou desenvolvendo  minhas habilidades em JavaScript, php e Java
 e linguagens de estilização: html e css
 
