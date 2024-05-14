@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 💙
 
-<!--
-**CarvalhoArthurzx/CarvalhoArthurzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Arthur Carvalho
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou estudando na [Etec](https://www.etec.com.br) - Desenvolvimento de Sistemas <br>
+-Estou desenvolvendo  minhas habilidades em JavaScript, php e Java
+e linguagens de estilização: html e css
+
+### Entre em contato comigo
+
+@arthurcarvalhoa567@gmail.com
+
+![](https://media1.tenor.com/m/Nv550-6u0IsAAAAC/hxh-thumbs.gif)
+
+@thurzinn.opm
