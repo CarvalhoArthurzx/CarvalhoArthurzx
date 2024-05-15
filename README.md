@@ -11,6 +11,8 @@ e linguagens de estilização: html e css
 
 @arthurcarvalhoa567@gmail.com
 
+@thurzinn.opm
+
 ![](https://media1.tenor.com/m/Nv550-6u0IsAAAAC/hxh-thumbs.gif)
 
-@thurzinn.opm
+
